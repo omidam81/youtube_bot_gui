@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<accounts>
+  <account>
+    <username>ytviewer2011</username>
+    <password>amir!@#$%^</password>
+    <api-key>AI39si7DseieKKZWUv9hy2oqoVc37Q9dkqLl_uWFhQrRkLuCXCbvoBQslltsjuTPnhKXslXj1pjJeMuxlfeRYJOP5FlIzPEhdQ</api-key>
+    <app-name>Youtube Viewer Program</app-name>
+    <proxy></proxy>
+  </account>
+
+  <account>
+    <username>ytviewer2050</username>
+    <password>amir!@#$%^</password>
+    <api-key>AI39si6SsYgUj7N2aqM3xGToisYg1QbGm_c3aMM7I3_d_omJqh4uYYDOOzyp_kdcsRE4z_tGSl25urRS-72QNUVs1nqnILxUZQ</api-key>
+    <app-name>You Tube Viewer Program</app-name>
+    <proxy></proxy>
+  </account>
+
+  <account>
+    <username>ytviewer2010</username>
+    <password>youtube!@#$%^</password>
+    <api-key>AI39si6oZ3f_ueMRxOyvcjB8y2XcoJYtVM52BmMvpSHNNUkCmx-Dt_2qm5xv1KGbWZy5-e3onLNmdVWk6jaY2hD7d6Fm97hUsA</api-key>
+    <app-name>Youtube Viewer Program</app-name>
+    <proxy></proxy>
+  </account>
+  
+  <account>
+    <username>ytviewer2060</username>
+    <password>amir!@#$%^</password>
+    <api-key>AI39si6OjvrvMnzfyySxz5KPDg4oPL1MdQj45x2HkMrCkKtuGWFFbCehDxT1CUFAecFEhE_x263BdtEEXMYh_T0DHO-Q077p9A</api-key>
+    <app-name>YoutTube Viewer Program</app-name>
+    <proxy></proxy>
+  </account>
+ 
+  <main-proxy>    
+  </main-proxy>
+</accounts>

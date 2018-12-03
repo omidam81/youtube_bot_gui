@@ -1,0 +1,16 @@
+﻿<Properties StartupConfiguration="{66F2A3D1-E1D1-4FDE-B6CF-086E8BAB58B4}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="youtube_bot_lib/model/User.cs">
+    <Files>
+      <File FileName="youtube_bot_lib/accounts.xml" Line="1" Column="1" />
+      <File FileName="youtube_bot_lib/messages.txt" Line="1" Column="1" />
+      <File FileName="youtube_bot_lib/model/User.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.youtube__bot__gui PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

@@ -1,0 +1,13 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:Boolean x:Key="/Default/CodeStyle/LiveTemplatesUseVar/PreferVar/@EntryValue">False</s:Boolean>
+	
+	<s:Boolean x:Key="/Default/Environment/SearchAndNavigation/MergeOccurences/@EntryValue">False</s:Boolean>
+	<s:Boolean x:Key="/Default/Housekeeping/UnitTestingMru/UnitTestSessionPersistentData/=792C2D1A7B254F1EBAE28C9E59D4A34A/@KeyIndexDefined">True</s:Boolean>
+	<s:String x:Key="/Default/Housekeeping/UnitTestingMru/UnitTestSessionPersistentData/=792C2D1A7B254F1EBAE28C9E59D4A34A/Name/@EntryValue">commentVideoTest</s:String>
+	<s:String x:Key="/Default/Housekeeping/UnitTestingMru/UnitTestSessionPersistentData/=792C2D1A7B254F1EBAE28C9E59D4A34A/XmlSerializedElements/@EntryValue">&lt;Session&gt;&lt;Elements&gt;&lt;UnitTestElement Provider="nUnit" Id="youtube_bot_test.api.VideoCommenterTest" type="NUnitTestFixtureElement" Project="4BB58C0E-ACD2-4FDF-9A78-D3C4303CFB61" /&gt;&lt;UnitTestElement Provider="nUnit" Id="youtube_bot_test.api.VideoCommenterTest.commentVideoTest" ParentId="youtube_bot_test.api.VideoCommenterTest" type="NUnitTestElement" TypeName="youtube_bot_test.api.VideoCommenterTest" MethodName="commentVideoTest" Project="4BB58C0E-ACD2-4FDF-9A78-D3C4303CFB61" /&gt;&lt;/Elements&gt;&lt;/Session&gt;</s:String>
+	
+	
+	
+	
+	
+	</wpf:ResourceDictionary>
